@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brysonics
+- 👋 Hi, I’m @bryson
 - 👀 I’m interested in QA Automation and Android Development
 - 🌱 I’m currently learning ...Python and Kotlin
 - 💞️ I’m looking to collaborate on ...
