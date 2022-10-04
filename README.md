@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bryson
-- 👀 I’m interested in QA Automation and Android Development
-- 🌱 I’m currently learning ...Python and Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @bryson a QA Engineer
+- 👀 I’m interested in Test Automation 
+- 🌱 I’m currently good at Python with (Appium & Selenium) for Test Automation
+- 💞️ I’m looking to collaborate on QA automated Projects 
 - 📫 How to reach me ...brysonkaranja@gmail.com
 
 <!---
