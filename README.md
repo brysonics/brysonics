@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryson a QA Engineer
 - 👀 I’m interested in Test Automation 
-- 🌱 I’m currently good at Python with (Appium & Selenium) for Test Automation
+- 🌱 I’m currently good at Python/Java with (Appium & Selenium) for Test Automation
 - 💞️ I’m looking to collaborate on QA automated Projects 
 - 📫 How to reach me ...brysonkaranja@gmail.com
 
